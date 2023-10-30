@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Echavez Chardaux</h1>
 <h3 align="center">A passionate frontend developer (React, Next) from Colombia</h3>
 
-- 🔭 I’m currently working on [Overnights](overnights.com)
+- 🔭 I’m currently working at [Overnights](overnights.com)
 
 - 💬 Ask me about **frontend development, react, next.js, UI libraries, or state management**
 
